@@ -7,3 +7,5 @@ Q
 !contracts/consent-management.clar,2/e/2e5a2504188b18fe18335d2beebfa11e060fc3fb
 N
 contracts/data-collection.clar,8/e/8e0596740b3c1cadac393db7643b0ff43faaa29f
+S
+#contracts/vehicle-registration.clar,8/9/8951745f7048259d44f3ea336f35763bdc1d99fa
